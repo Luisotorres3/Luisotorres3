@@ -2,41 +2,41 @@
 
 ## 📜 Índice / Table of Contents
 1. [Español](#español)
-   - [Sobre mí](#sobre-mí)
-   - [Experiencia](#experiencia)
-   - [Habilidades](#habilidades)
-   - [Contacto](#contacto)
+   - [Sobre mí](#sobre-mí-es)
+   - [Experiencia](#experiencia-es)
+   - [Habilidades](#habilidades-es)
+   - [Contacto](#contacto-es)
 2. [English](#english)
-   - [About Me](#about-me)
-   - [Experience](#experience)
-   - [Skills](#skills)
-   - [Contact](#contact)
+   - [About Me](#about-me-en)
+   - [Experience](#experience-en)
+   - [Skills](#skills-en)
+   - [Contact](#contact-en)
 3. [Français](#français)
-   - [À propos de moi](#à-propos-de-moi)
-   - [Expérience](#expérience)
-   - [Compétences](#compétences)
+   - [À propos de moi](#à-propos-de-moi-fr)
+   - [Expérience](#expérience-fr)
+   - [Compétences](#compétences-fr)
    - [Contact](#contact-fr)
 
 ---
 
 ## Español
 
-### 📌 Sobre mí
+### 📌 <a name="sobre-mí-es"></a> Sobre mí
 Soy **Luis Soto Torres**, un Ingeniero en Informática especializado en Tecnologías de la Información. Me gradué en la Universidad de Granada y actualmente trabajo como **Desarrollador de Software** en **AMADEUS**, en Niza.
 
 Con una pasión por la tecnología y el desarrollo de software, me dedico a crear soluciones tecnológicas que optimizan procesos y mejoran la eficiencia. Siempre estoy explorando nuevas tecnologías para mejorar mis habilidades.
 
-### 💼 Experiencia
+### 💼 <a name="experiencia-es"></a> Experiencia
 En mi rol actual en **AMADEUS**, trabajo en proyectos desafiantes relacionados con sistemas de gestión y reservas para la industria de viajes. Desarrollo soluciones escalables, eficientes y confiables que mejoran la experiencia del cliente.
 
-### 🚀 Habilidades
+### 🚀 <a name="habilidades-es"></a> Habilidades
 - **Lenguajes de Programación:** Java, Python, JavaScript, C++
 - **Frameworks:** Spring Boot, Angular, React
 - **Bases de Datos:** MySQL, PostgreSQL, MongoDB
 - **DevOps:** Docker, Kubernetes, CI/CD, Jenkins
 - **Metodologías Ágiles:** Scrum, Kanban
 
-### 📫 Contacto
+### 📫 <a name="contacto-es"></a> Contacto
 - 📧 **Correo:** luis.soto.torres3@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/luisotorres3)  
 - 🌐 [Portfolio](https://www.luisotorres3.github.io)  
@@ -45,22 +45,22 @@ En mi rol actual en **AMADEUS**, trabajo en proyectos desafiantes relacionados c
 
 ## English
 
-### 📌 About Me
+### 📌 <a name="about-me-en"></a> About Me
 I am **Luis Soto Torres**, a Computer Engineer specialized in Information Technology. I graduated from the University of Granada, and I am currently working as a **Software Developer** at **AMADEUS** in Nice.
 
 Passionate about technology and software development, I strive to create impactful tech solutions that optimize processes and increase efficiency. I'm always exploring new technologies to enhance my skills.
 
-### 💼 Experience
+### 💼 <a name="experience-en"></a> Experience
 In my role at **AMADEUS**, I work on challenging projects related to management and booking systems for the travel industry. My focus is on developing scalable, efficient, and reliable software solutions that enhance the customer experience.
 
-### 🚀 Skills
+### 🚀 <a name="skills-en"></a> Skills
 - **Programming Languages:** Java, Python, JavaScript, C++
 - **Frameworks:** Spring Boot, Angular, React
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **DevOps:** Docker, Kubernetes, CI/CD, Jenkins
 - **Agile Methodologies:** Scrum, Kanban
 
-### 📫 Contact
+### 📫 <a name="contact-en"></a> Contact
 - 📧 **Email:** luis.soto.torres3@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/luisotorres3)  
 - 🌐 [Portfolio](https://www.luisotorres3.github.io)  
@@ -69,22 +69,22 @@ In my role at **AMADEUS**, I work on challenging projects related to management 
 
 ## Français
 
-### 📌 À propos de moi
+### 📌 <a name="à-propos-de-moi-fr"></a> À propos de moi
 Je suis **Luis Soto Torres**, un Ingénieur en Informatique spécialisé en Technologies de l'Information. J'ai obtenu mon diplôme à l'Université de Grenade et je travaille actuellement en tant que **Développeur de logiciels** chez **AMADEUS** à Nice.
 
 Passionné par la technologie et le développement de logiciels, je m'efforce de créer des solutions techniques qui optimisent les processus et améliorent l'efficacité. J'explore constamment de nouvelles technologies pour renforcer mes compétences.
 
-### 💼 Expérience
+### 💼 <a name="expérience-fr"></a> Expérience
 Dans mon rôle actuel chez **AMADEUS**, je travaille sur des projets stimulants liés aux systèmes de gestion et de réservation pour l'industrie du voyage. Mon objectif est de développer des solutions logicielles évolutives, efficaces et fiables pour améliorer l'expérience client.
 
-### 🚀 Compétences
+### 🚀 <a name="compétences-fr"></a> Compétences
 - **Langages de Programmation:** Java, Python, JavaScript, C++
 - **Frameworks:** Spring Boot, Angular, React
 - **Bases de Données:** MySQL, PostgreSQL, MongoDB
 - **DevOps:** Docker, Kubernetes, CI/CD, Jenkins
 - **Méthodologies Agiles:** Scrum, Kanban
 
-### 📫 Contact
+### 📫 <a name="contact-fr"></a> Contact
 - 📧 **Courriel:** luis.soto.torres3@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/luisotorres3)  
 - 🌐 [Portfolio](https://www.luisotorres3.github.io)  
@@ -93,7 +93,11 @@ Dans mon rôle actuel chez **AMADEUS**, je travaille sur des projets stimulants 
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Luisotorres3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Luisotorres3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://luisotorres3.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luis.soto.torres3@gmail.com)
+[![CV](https://img.shields.io/badge/CV-%23FF7139.svg?style=for-the-badge&logo=readme&logoColor=white)](https://luisotorres3.github.io/Luis_Soto_Torres_CV.pdf)
+
 
 ---
 
