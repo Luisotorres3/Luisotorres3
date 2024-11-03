@@ -39,7 +39,7 @@ En mi rol actual en **AMADEUS**, trabajo en proyectos desafiantes relacionados c
 ### 📫 <a name="contacto-es"></a> Contacto
 - 📧 **Correo:** luis.soto.torres3@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/luisotorres3)  
-- 🌐 [Portfolio](https://www.luisotorres3.github.io)  
+- 🌐 [Portfolio](https://luisotorres3.github.io)  
 
 ---
 
@@ -63,7 +63,7 @@ In my role at **AMADEUS**, I work on challenging projects related to management 
 ### 📫 <a name="contact-en"></a> Contact
 - 📧 **Email:** luis.soto.torres3@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/luisotorres3)  
-- 🌐 [Portfolio](https://www.luisotorres3.github.io)  
+- 🌐 [Portfolio](https://luisotorres3.github.io)  
 
 ---
 
@@ -87,7 +87,7 @@ Dans mon rôle actuel chez **AMADEUS**, je travaille sur des projets stimulants 
 ### 📫 <a name="contact-fr"></a> Contact
 - 📧 **Courriel:** luis.soto.torres3@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/luisotorres3)  
-- 🌐 [Portfolio](https://www.luisotorres3.github.io)  
+- 🌐 [Portfolio](https://luisotorres3.github.io)  
 
 ---
 
